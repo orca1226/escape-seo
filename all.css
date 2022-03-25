@@ -1,3 +1,8 @@
+@font-face {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", san
+s-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-display: swap;
+}
 .bg-primary-soft, .btn-primary-soft{
   background-color: rgba(51,94,234,.1);
   color: #335eea;
